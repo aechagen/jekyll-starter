@@ -1,9 +1,12 @@
-# Jekyll Base
-A Jekyll boilerplate with the essentials installed.
+# CaseyLH
+A personal website, created after frustration of trying to learn WordPress.
+- Created with Jekyll on my Surface Pro 2017
+- My first website built with my Windows
 
-## New site?
-1. Clone repo into new directory
-2. ```cd``` into directory, then run: ```npm install```
-3. run ```gulp```. Boom.
 
-* Tweaked original repo from [shakyShane](https://github.com/shakyShane)
+
+
+
+
+
+
